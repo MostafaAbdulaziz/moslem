@@ -1,0 +1,1 @@
+String elaksa='assets/images/elaksa.jpg';
